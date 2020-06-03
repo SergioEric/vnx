@@ -7,7 +7,6 @@ sections:
 - type: document
   path: gallery/**/*.md
   label: Gallery
-  match: "**/*"
 - type: heading
   label: Marketing
 - type: directory
