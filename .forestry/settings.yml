@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: document
+  path: gallery/**/*.md
+  label: Gallery
+  match: "**/*"
 - type: heading
   label: Marketing
 - type: directory
