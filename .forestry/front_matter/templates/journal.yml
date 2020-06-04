@@ -33,7 +33,7 @@ fields:
     required: true
     options:
     - Jesus Oyola
-    - SergioEric
+    - Sergio Eric
   label: Author
   default: Sergio Eric
 pages:
