@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03
 title: About Typography
-author: Nichlas W. Andersen
+author: Jesus Oyola
 excerpt: Font face, vertical rythm, readability, this long fake text should flow.
 
 ---
