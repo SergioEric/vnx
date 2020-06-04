@@ -22,7 +22,7 @@
 export default {
   data() {
     return {
-        logo: require("../../static/logo.svg"),
+        // logo: require("../../static/logo.svg"),
         settings: require("../../data/theme.json")
     }
   }
@@ -51,7 +51,8 @@ export default {
     text-decoration: none;
 }
 .logo {
-    height: 1.5rem;
+    height: 2.5rem;
+    /* width: 300px; */
 }
 .site-name {
     font-size: 0.9rem;

@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Visnex Studio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://visnex.co`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
