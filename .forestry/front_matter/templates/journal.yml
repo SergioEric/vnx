@@ -32,8 +32,8 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Sergio Eric
   label: Author
-  default: Nichlas W. Andersen
+  default: Sergio Eric
 pages:
 - journal/macos-development-environment.md
