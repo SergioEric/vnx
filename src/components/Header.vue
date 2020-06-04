@@ -32,8 +32,10 @@ export default {
 <style scoped>
 .header {
     position: relative;
-    height: 6rem;
+    height: 5rem;
     z-index: 10;
+    background: #ffffff69;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.05);
 }
 .header.sticky {
     position: fixed;
