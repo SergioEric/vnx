@@ -5,7 +5,6 @@ module.exports = {
   siteName: "Visnex Studio",
   siteUrl: `https://visnex.co`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
   plugins: [
     {
