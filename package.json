@@ -4,7 +4,8 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "now-build": "yarn build"
   },
   "dependencies": {
     "@gridsome/remark-prismjs": "0.3.0",
